@@ -1,0 +1,29 @@
+{
+  "name": "ssh-simplified",
+  "description": "SSH Simplified",
+  "version": "0.1.1",
+  "homepage": "https://github.com/EnzeyNet/NodeJS-SshSimplified",
+  "bugs": {
+    "url": "https://github.com/EnzeyNet/NodeJS-SshSimplified/issues"
+  },
+  "author": "Joseph Aspelund (https://github.com/Xanir)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EnzeyNet/NodeJS-SshSimplified.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "dependencies": {
+    "q": "1.1.x"
+  },
+  "devDependencies": {},
+  "files": [
+    "SshSimplified.js"
+  ],
+  "main": "SshSimplified.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
